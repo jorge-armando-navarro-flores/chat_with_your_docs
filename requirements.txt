@@ -25,7 +25,7 @@ fonttools==4.51.0
 frozenlist==1.4.1
 fsspec==2024.3.1
 gradio==4.25.0
-gradio_client==0.15.0
+gradio_client
 greenlet==3.0.3
 h11==0.14.0
 httpcore==1.0.5
@@ -119,7 +119,7 @@ typing_extensions==4.11.0
 tzdata==2024.1
 urllib3==2.2.1
 uvicorn==0.29.0
-websockets==12.0
+websockets
 yarl==1.9.4
-yt-dlp==2024.4.9
+yt-dlp
 zipp==3.18.1

@@ -28,7 +28,7 @@ The application follows these steps to provide responses to your questions:
 
 ---
 
-To install the Chat With PDF App, please follow these steps:
+To install the Chat With Your Docs App, please follow these steps:
 
 1. Download [Ollama library](https://github.com/jmorganca/ollama)
    ```
@@ -67,6 +67,11 @@ To install the Chat With PDF App, please follow these steps:
 5. Install the required dependencies by running the following command:
    ```
    pip install -r requirements.txt
+   ```
+
+6. Install ffmpeg for YouTube videos:
+   ```
+   sudo apt-get install ffmpeg
    ```
 
 ## Usage
