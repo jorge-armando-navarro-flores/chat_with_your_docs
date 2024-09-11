@@ -1,3 +1,15 @@
+---
+title: Chat With Your Docs
+emoji: 📚
+colorFrom: blue
+colorTo: gray
+sdk: gradio
+sdk_version: 4.41.0
+app_file: app.py
+pinned: false
+license: mit
+---
+
 # Chat With Your Docs
 
 ## Introduction
@@ -65,6 +77,7 @@ To install the Chat With Your Docs App, please follow these steps:
    ```
 
 5. Install the required dependencies by running the following command:
+
    ```
    pip install -r requirements.txt
    ```
